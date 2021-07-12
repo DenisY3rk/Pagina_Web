@@ -14,17 +14,17 @@
     <body>
     <header>
       <nav>
-        <ul id="menu">
+        <ul class="menu">
           <li><a href="">Inicio</a></li>
           <li><a href="">Municipio</a>
             <ul>
-              <li><a href="">Noticias</a></li>
-              <li><a href="">Trámite documentario</a></li>
-              <li><a href="">Mobile</a></li>
+              <li><a href="">Tag1</a></li>
+              <li><a href="">Tag2</a></li>
+              <li><a href="">Tag3</a></li>
             </ul>  
           </li>
-          <li><a href="">Tutoriales</a></li>
-          <li><a href="">Contacto</a></li>
+          <li><a href="">Noticias</a></li>
+          <li><a href="">Trámite documentario</a></li>
         </ul>
       </nav>
     </header>
