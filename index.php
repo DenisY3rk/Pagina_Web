@@ -7,6 +7,7 @@
     <title>Municipalidad Distrital de San Juan del Oro</title>
     <link rel="stylesheet" href="vistas/css/bootstrap.css">
     <link rel="stylesheet" href="vistas/css/bootstrap-theme.css">
+    <link rel="stylesheet" href="vistas/css/estilo.css">
     <script src="vistas/js/bootstrap.js"></script>
 </head>
 
@@ -14,12 +15,12 @@
     <body>
     <header>
       <nav>
-        <ul class="menu">
+        <ul id="menu">
           <li><a href="">Inicio</a></li>
           <li><a href="">Municipio</a>
             <ul>
-              <li><a href="">Tag1</a></li>
-              <li><a href="">Tag2</a></li>
+              <li><a href="">Visión</a></li>
+              <li><a href="">Misión</a></li>
               <li><a href="">Tag3</a></li>
             </ul>  
           </li>
