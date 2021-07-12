@@ -16,12 +16,13 @@
     <header>
       <nav>
         <ul id="menu">
+          <li><a href="">Logo</a></li> 
           <li><a href="">Inicio</a></li>
           <li><a href="">Municipio</a>
             <ul>
               <li><a href="">Visión</a></li>
               <li><a href="">Misión</a></li>
-              <li><a href="">Tag3</a></li>
+              <li><a href="">Organigrama</a></li>
             </ul>  
           </li>
           <li><a href="">Noticias</a></li>
